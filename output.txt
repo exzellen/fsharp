@@ -1,0 +1,15 @@
+Train 100 20 500 ExpressLine
+Airplane 800 1200 600 700 SkyCargo
+Train 60 50 2000 TrainBucks
+Airplane 900 1500 700 850 Airbucks
+Train 120 30 700 ExpressFast
+Airplane 1000 1800 800 950 SkyExpress
+Truck 8000 15.500000 90 180 CargoMaster
+Train 80 40 1500 RailStar
+Airplane 700 1300 550 600 AirExpress
+Truck 4500 10.500000 60 120 FreightHauler
+Train 150 25 800 ThunderRail
+Airplane 1200 2000 900 1100 AeroJet
+Train 90 35 1200 SwiftRails
+Airplane 600 1000 500 750 SkyLiner
+Truck 5000 11.500000 70 140 RoadMaster

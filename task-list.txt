@@ -1,0 +1,21 @@
+ADD Train 100 20 500 ExpressLine
+ADD Airplane 800 1200 600 700 SkyCargo
+ADD Train 60 50 2000 TrainBucks
+ADD Airplane 900 1500 700 850 Airbucks
+ADD Truck 6000 12.5 75 150 Truckbucks
+REM Volume == 12.5
+ADD Train 120 30 700 ExpressFast
+ADD Airplane 1000 1800 800 950 SkyExpress
+ADD Truck 8000 15.5 90 180 CargoMaster
+ADD Train 80 40 1500 RailStar
+ADD Airplane 700 1300 550 600 AirExpress
+ADD Truck 4500 10.5 60 120 FreightHauler
+ADD Train 150 25 800 ThunderRail
+ADD Airplane 1200 2000 900 1100 AeroJet
+ADD Truck 7000 14.5 80 160 CargoMover
+ADD Train 90 35 1200 SwiftRails
+ADD Airplane 600 1000 500 750 SkyLiner
+ADD Truck 5000 11.5 70 140 RoadMaster
+REM Speed >= 1000
+REM Volume == 14.5
+PRINT

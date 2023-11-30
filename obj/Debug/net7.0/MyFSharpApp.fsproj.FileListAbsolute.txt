@@ -1,0 +1,88 @@
+D:\4 curse\OPPPO_LAB2\MyFSharpApp\obj\Debug\net7.0\MyFSharpApp.fsproj.AssemblyReference.cache
+D:\4 curse\OPPPO_LAB2\MyFSharpApp\obj\Debug\net7.0\MyFSharpApp.AssemblyInfoInputs.cache
+D:\4 curse\OPPPO_LAB2\MyFSharpApp\obj\Debug\net7.0\MyFSharpApp.AssemblyInfo.fs
+D:\4 curse\OPPPO_LAB2\MyFSharpApp\obj\Debug\net7.0\MyFSharpApp.fsproj.CoreCompileInputs.cache
+D:\4 curse\OPPPO_LAB2\MyFSharpApp\bin\Debug\net7.0\MyFSharpApp.exe
+D:\4 curse\OPPPO_LAB2\MyFSharpApp\bin\Debug\net7.0\MyFSharpApp.deps.json
+D:\4 curse\OPPPO_LAB2\MyFSharpApp\bin\Debug\net7.0\MyFSharpApp.runtimeconfig.json
+D:\4 curse\OPPPO_LAB2\MyFSharpApp\bin\Debug\net7.0\MyFSharpApp.dll
+D:\4 curse\OPPPO_LAB2\MyFSharpApp\bin\Debug\net7.0\MyFSharpApp.pdb
+D:\4 curse\OPPPO_LAB2\MyFSharpApp\bin\Debug\net7.0\FSharp.Core.dll
+D:\4 curse\OPPPO_LAB2\MyFSharpApp\bin\Debug\net7.0\cs\FSharp.Core.resources.dll
+D:\4 curse\OPPPO_LAB2\MyFSharpApp\bin\Debug\net7.0\de\FSharp.Core.resources.dll
+D:\4 curse\OPPPO_LAB2\MyFSharpApp\bin\Debug\net7.0\es\FSharp.Core.resources.dll
+D:\4 curse\OPPPO_LAB2\MyFSharpApp\bin\Debug\net7.0\fr\FSharp.Core.resources.dll
+D:\4 curse\OPPPO_LAB2\MyFSharpApp\bin\Debug\net7.0\it\FSharp.Core.resources.dll
+D:\4 curse\OPPPO_LAB2\MyFSharpApp\bin\Debug\net7.0\ja\FSharp.Core.resources.dll
+D:\4 curse\OPPPO_LAB2\MyFSharpApp\bin\Debug\net7.0\ko\FSharp.Core.resources.dll
+D:\4 curse\OPPPO_LAB2\MyFSharpApp\bin\Debug\net7.0\pl\FSharp.Core.resources.dll
+D:\4 curse\OPPPO_LAB2\MyFSharpApp\bin\Debug\net7.0\pt-BR\FSharp.Core.resources.dll
+D:\4 curse\OPPPO_LAB2\MyFSharpApp\bin\Debug\net7.0\ru\FSharp.Core.resources.dll
+D:\4 curse\OPPPO_LAB2\MyFSharpApp\bin\Debug\net7.0\tr\FSharp.Core.resources.dll
+D:\4 curse\OPPPO_LAB2\MyFSharpApp\bin\Debug\net7.0\zh-Hans\FSharp.Core.resources.dll
+D:\4 curse\OPPPO_LAB2\MyFSharpApp\bin\Debug\net7.0\zh-Hant\FSharp.Core.resources.dll
+D:\4 curse\OPPPO_LAB2\MyFSharpApp\obj\Debug\net7.0\MyFSharpApp.fsproj.CopyComplete
+D:\4 curse\OPPPO_LAB2\MyFSharpApp\obj\Debug\net7.0\MyFSharpApp.dll
+D:\4 curse\OPPPO_LAB2\MyFSharpApp\obj\Debug\net7.0\refint\MyFSharpApp.dll
+D:\4 curse\OPPPO_LAB2\MyFSharpApp\obj\Debug\net7.0\MyFSharpApp.pdb
+D:\4 curse\OPPPO_LAB2\MyFSharpApp\obj\Debug\net7.0\MyFSharpApp.genruntimeconfig.cache
+D:\4 curse\OPPPO_LAB2\MyFSharpApp\obj\Debug\net7.0\ref\MyFSharpApp.dll
+D:\4_curse\OPPPO_LAB2\MyFSharpApp\bin\Debug\net7.0\MyFSharpApp.exe
+D:\4_curse\OPPPO_LAB2\MyFSharpApp\bin\Debug\net7.0\MyFSharpApp.deps.json
+D:\4_curse\OPPPO_LAB2\MyFSharpApp\bin\Debug\net7.0\MyFSharpApp.runtimeconfig.json
+D:\4_curse\OPPPO_LAB2\MyFSharpApp\bin\Debug\net7.0\MyFSharpApp.dll
+D:\4_curse\OPPPO_LAB2\MyFSharpApp\bin\Debug\net7.0\MyFSharpApp.pdb
+D:\4_curse\OPPPO_LAB2\MyFSharpApp\bin\Debug\net7.0\FSharp.Core.dll
+D:\4_curse\OPPPO_LAB2\MyFSharpApp\bin\Debug\net7.0\cs\FSharp.Core.resources.dll
+D:\4_curse\OPPPO_LAB2\MyFSharpApp\bin\Debug\net7.0\de\FSharp.Core.resources.dll
+D:\4_curse\OPPPO_LAB2\MyFSharpApp\bin\Debug\net7.0\es\FSharp.Core.resources.dll
+D:\4_curse\OPPPO_LAB2\MyFSharpApp\bin\Debug\net7.0\fr\FSharp.Core.resources.dll
+D:\4_curse\OPPPO_LAB2\MyFSharpApp\bin\Debug\net7.0\it\FSharp.Core.resources.dll
+D:\4_curse\OPPPO_LAB2\MyFSharpApp\bin\Debug\net7.0\ja\FSharp.Core.resources.dll
+D:\4_curse\OPPPO_LAB2\MyFSharpApp\bin\Debug\net7.0\ko\FSharp.Core.resources.dll
+D:\4_curse\OPPPO_LAB2\MyFSharpApp\bin\Debug\net7.0\pl\FSharp.Core.resources.dll
+D:\4_curse\OPPPO_LAB2\MyFSharpApp\bin\Debug\net7.0\pt-BR\FSharp.Core.resources.dll
+D:\4_curse\OPPPO_LAB2\MyFSharpApp\bin\Debug\net7.0\ru\FSharp.Core.resources.dll
+D:\4_curse\OPPPO_LAB2\MyFSharpApp\bin\Debug\net7.0\tr\FSharp.Core.resources.dll
+D:\4_curse\OPPPO_LAB2\MyFSharpApp\bin\Debug\net7.0\zh-Hans\FSharp.Core.resources.dll
+D:\4_curse\OPPPO_LAB2\MyFSharpApp\bin\Debug\net7.0\zh-Hant\FSharp.Core.resources.dll
+D:\4_curse\OPPPO_LAB2\MyFSharpApp\obj\Debug\net7.0\MyFSharpApp.fsproj.AssemblyReference.cache
+D:\4_curse\OPPPO_LAB2\MyFSharpApp\obj\Debug\net7.0\MyFSharpApp.AssemblyInfoInputs.cache
+D:\4_curse\OPPPO_LAB2\MyFSharpApp\obj\Debug\net7.0\MyFSharpApp.AssemblyInfo.fs
+D:\4_curse\OPPPO_LAB2\MyFSharpApp\obj\Debug\net7.0\MyFSharpApp.fsproj.CoreCompileInputs.cache
+D:\4_curse\OPPPO_LAB2\MyFSharpApp\obj\Debug\net7.0\MyFSharpApp.sourcelink.json
+D:\4_curse\OPPPO_LAB2\MyFSharpApp\obj\Debug\net7.0\MyFSharpApp.fsproj.CopyComplete
+D:\4_curse\OPPPO_LAB2\MyFSharpApp\obj\Debug\net7.0\MyFSharpApp.dll
+D:\4_curse\OPPPO_LAB2\MyFSharpApp\obj\Debug\net7.0\refint\MyFSharpApp.dll
+D:\4_curse\OPPPO_LAB2\MyFSharpApp\obj\Debug\net7.0\MyFSharpApp.pdb
+D:\4_curse\OPPPO_LAB2\MyFSharpApp\obj\Debug\net7.0\MyFSharpApp.genruntimeconfig.cache
+D:\4_curse\OPPPO_LAB2\MyFSharpApp\obj\Debug\net7.0\ref\MyFSharpApp.dll
+C:\Users\User\source\repos\MyFSharpApp\bin\Debug\net7.0\MyFSharpApp.exe
+C:\Users\User\source\repos\MyFSharpApp\bin\Debug\net7.0\MyFSharpApp.deps.json
+C:\Users\User\source\repos\MyFSharpApp\bin\Debug\net7.0\MyFSharpApp.runtimeconfig.json
+C:\Users\User\source\repos\MyFSharpApp\bin\Debug\net7.0\MyFSharpApp.dll
+C:\Users\User\source\repos\MyFSharpApp\bin\Debug\net7.0\MyFSharpApp.pdb
+C:\Users\User\source\repos\MyFSharpApp\bin\Debug\net7.0\FSharp.Core.dll
+C:\Users\User\source\repos\MyFSharpApp\bin\Debug\net7.0\cs\FSharp.Core.resources.dll
+C:\Users\User\source\repos\MyFSharpApp\bin\Debug\net7.0\de\FSharp.Core.resources.dll
+C:\Users\User\source\repos\MyFSharpApp\bin\Debug\net7.0\es\FSharp.Core.resources.dll
+C:\Users\User\source\repos\MyFSharpApp\bin\Debug\net7.0\fr\FSharp.Core.resources.dll
+C:\Users\User\source\repos\MyFSharpApp\bin\Debug\net7.0\it\FSharp.Core.resources.dll
+C:\Users\User\source\repos\MyFSharpApp\bin\Debug\net7.0\ja\FSharp.Core.resources.dll
+C:\Users\User\source\repos\MyFSharpApp\bin\Debug\net7.0\ko\FSharp.Core.resources.dll
+C:\Users\User\source\repos\MyFSharpApp\bin\Debug\net7.0\pl\FSharp.Core.resources.dll
+C:\Users\User\source\repos\MyFSharpApp\bin\Debug\net7.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\User\source\repos\MyFSharpApp\bin\Debug\net7.0\ru\FSharp.Core.resources.dll
+C:\Users\User\source\repos\MyFSharpApp\bin\Debug\net7.0\tr\FSharp.Core.resources.dll
+C:\Users\User\source\repos\MyFSharpApp\bin\Debug\net7.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\User\source\repos\MyFSharpApp\bin\Debug\net7.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\User\source\repos\MyFSharpApp\obj\Debug\net7.0\MyFSharpApp.fsproj.AssemblyReference.cache
+C:\Users\User\source\repos\MyFSharpApp\obj\Debug\net7.0\MyFSharpApp.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MyFSharpApp\obj\Debug\net7.0\MyFSharpApp.AssemblyInfo.fs
+C:\Users\User\source\repos\MyFSharpApp\obj\Debug\net7.0\MyFSharpApp.fsproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MyFSharpApp\obj\Debug\net7.0\MyFSharpApp.fsproj.CopyComplete
+C:\Users\User\source\repos\MyFSharpApp\obj\Debug\net7.0\MyFSharpApp.dll
+C:\Users\User\source\repos\MyFSharpApp\obj\Debug\net7.0\refint\MyFSharpApp.dll
+C:\Users\User\source\repos\MyFSharpApp\obj\Debug\net7.0\MyFSharpApp.pdb
+C:\Users\User\source\repos\MyFSharpApp\obj\Debug\net7.0\MyFSharpApp.genruntimeconfig.cache
+C:\Users\User\source\repos\MyFSharpApp\obj\Debug\net7.0\ref\MyFSharpApp.dll
